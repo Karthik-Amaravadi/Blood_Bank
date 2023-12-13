@@ -18,6 +18,3 @@ I have used FIREBASE for the DATABASE and JAVA as programing language.
 <img src="bloodbankinfo.jpeg" width="280px" alt="Screenshot" />
 
 
-
-# srujanbannu/blood_bank_app is licensed under the
-## Mozilla Public License 2.0
